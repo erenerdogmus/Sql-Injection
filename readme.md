@@ -9,4 +9,4 @@ Türk Siber Birliği Üyelerine selamlarımızla.
 ## Videolu Eğitim
 
 Kitabın videolu eğitimine ulaşmak için linke tıklayabilirsiniz:
-[SQL ve Siber Güvenlik Videolu Eğitim](https://www.youtube.com/watch?v=Yecl3Vm1D_Q&t=1361s)
+[Uygulamalı ve Detaylı SQL Injection](https://www.youtube.com/watch?v=Yecl3Vm1D_Q&t=1361s)
